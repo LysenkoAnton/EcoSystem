@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoSystem", "EcoSystem\EcoSystem.csproj", "{705DC57F-A3E7-4DFB-AA41-1A2DB4C0590E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705DC57F-A3E7-4DFB-AA41-1A2DB4C0590E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705DC57F-A3E7-4DFB-AA41-1A2DB4C0590E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705DC57F-A3E7-4DFB-AA41-1A2DB4C0590E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705DC57F-A3E7-4DFB-AA41-1A2DB4C0590E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E749BA2-E0F9-4382-973F-F43E711A7313}
+	EndGlobalSection
+EndGlobal
